@@ -1,5 +1,11 @@
 # @astrojs/mdx
 
+## 0.8.3
+
+### Patch Changes
+
+- [#4248](https://github.com/withastro/astro/pull/4248) [`869d00935`](https://github.com/withastro/astro/commit/869d0093596b709cfcc1a1a95ee631b48d6d1c26) Thanks [@svemat01](https://github.com/svemat01)! - Load builtin rehype plugins before user plugins instead of after
+
 ## 0.8.2
 
 ### Patch Changes

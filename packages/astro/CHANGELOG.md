@@ -1,5 +1,11 @@
 # astro
 
+## 1.0.3
+
+### Patch Changes
+
+- [#4239](https://github.com/withastro/astro/pull/4239) [`a9baa45af`](https://github.com/withastro/astro/commit/a9baa45af35abdd3e1930fb49e8b6fb0a4340e2a) Thanks [@bluwy](https://github.com/bluwy)! - Fix Astro client scripts sourcemap 404
+
 ## 1.0.2
 
 ### Patch Changes
